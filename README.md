@@ -1,5 +1,5 @@
 # AnScan
-AnScan是一款集合信息收集、分布式漏洞扫描、漏洞POC管理等为一体的红队扫描工具
+AnScan是一款集信息收集、分布式漏洞扫描、漏洞POC管理等为一体的红队扫描工具
 ### 创建扫描任务
 ![image](https://user-images.githubusercontent.com/29480790/150317402-cea88c47-037f-404b-951f-0c96dcbbb7bc.png)
 ### 任务管理列表
