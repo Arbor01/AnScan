@@ -1,7 +1,7 @@
 # AnScan
 AnScan是一款集信息收集、分布式主动/被动漏洞扫描、定时扫描任务、POC插件管理、目录扫描、端口扫描等为一体的红队扫描工具。
 
-AnScan项目目前已完成基本功能，对应的POC插件AnPoc也在逐步收集构建中，后续都会开源～
+AnScan项目目前已完成基本功能，对应的POC插件库AnPoc也在逐步收集构建中，后续都会开源～
 ### 创建扫描任务
 ![image](https://user-images.githubusercontent.com/29480790/150317402-cea88c47-037f-404b-951f-0c96dcbbb7bc.png)
 ### 任务管理列表
