@@ -23,4 +23,5 @@ AnScan项目目前已完成基本功能，对应的POC插件库AnPoc也在逐步
 ![image](https://user-images.githubusercontent.com/29480790/150317609-e5aaa6ba-e62d-45be-aae9-7bb775d20f6a.png)
 ### 漏洞扫描结果
 ![image](https://user-images.githubusercontent.com/29480790/150317267-fdc9284d-feac-48d4-878b-325a2c2f5013.png)
-<img width="1806" alt="image" src="https://user-images.githubusercontent.com/29480790/154089777-b76e73a4-ce5a-48fd-926b-86ff3809c1cb.png">
+<img width="1804" alt="image" src="https://user-images.githubusercontent.com/29480790/154090129-c4871a16-e8c1-4c3d-b39c-7b43ef0c92f1.png">
+
