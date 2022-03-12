@@ -32,6 +32,5 @@ AnScan项目目前已完成基本功能，对应的POC插件库AnPoc也在逐步
 ![image](https://user-images.githubusercontent.com/29480790/155139265-3c7c26cb-1f9c-49e4-80bf-8a71201fd63c.png)
 
 
-## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/Arbor01/AnScan.svg)](https://starchart.cc/Arbor01/AnScan)
