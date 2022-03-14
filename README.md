@@ -31,7 +31,7 @@ AnScan项目目前已完成基本功能，对应的POC插件库AnPoc也在逐步
 ### 资产扫描结果
 ![image](https://user-images.githubusercontent.com/29480790/155139265-3c7c26cb-1f9c-49e4-80bf-8a71201fd63c.png)
 ### 指纹识别
-![image](https://user-images.githubusercontent.com/29480790/158095222-65551de7-4791-4a4c-9d1a-23c3d4a55d39.png)
+![image](https://user-images.githubusercontent.com/29480790/158125393-55ff213c-4904-4069-aa6b-feeca89515e2.png)
 
 
 
