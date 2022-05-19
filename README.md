@@ -56,7 +56,7 @@ AnScan项目目前已完成基本功能，对应的POC插件库AnPoc也在逐步
 ![image](https://user-images.githubusercontent.com/29480790/154090129-c4871a16-e8c1-4c3d-b39c-7b43ef0c92f1.png)
 
 ### POC插件列表
-![image](https://user-images.githubusercontent.com/29480790/167084217-92234909-7902-4a0e-8d94-e833f3eb6325.png)
+![image](https://user-images.githubusercontent.com/29480790/169247918-5501f881-ae57-49f1-a349-5297fae61808.png)
 
 ### POC详情
 ![image](https://user-images.githubusercontent.com/29480790/167084394-de9d6136-0072-4f98-93b7-c9880903e126.png)
