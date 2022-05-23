@@ -62,7 +62,7 @@ AnScan项目目前已完成基本功能，对应的POC插件库AnPoc也在逐步
 ![image](https://user-images.githubusercontent.com/29480790/167084394-de9d6136-0072-4f98-93b7-c9880903e126.png)
 
 ### 指纹识别
-![image](https://user-images.githubusercontent.com/29480790/167085155-00630861-91bc-4b66-8aa7-f0789ff5be0e.png)
+![image](https://user-images.githubusercontent.com/29480790/169731837-d6bc05e0-8bd8-4dcc-80b2-6fe4cb666315.png)
 
 ### 命令备忘（交互逻辑参考谷歌插件Hack Tools）
 ![image](https://user-images.githubusercontent.com/29480790/167073614-fc797f81-fdf2-4c12-b87a-c5ef6e30dcb2.png)
